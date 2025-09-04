@@ -1,0 +1,14 @@
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/bin/Debug/net9.0/NorthwindDB.deps.json
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/bin/Debug/net9.0/NorthwindDB.runtimeconfig.json
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/bin/Debug/net9.0/NorthwindDB.dll
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/bin/Debug/net9.0/NorthwindDB.pdb
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/NorthwindDB.csproj.AssemblyReference.cache
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/NorthwindDB.GeneratedMSBuildEditorConfig.editorconfig
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/NorthwindDB.AssemblyInfoInputs.cache
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/NorthwindDB.AssemblyInfo.cs
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/NorthwindDB.csproj.CoreCompileInputs.cache
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/NorthwindDB.dll
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/refint/NorthwindDB.dll
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/NorthwindDB.pdb
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/NorthwindDB.genruntimeconfig.cache
+/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab2/NorthwindDB/obj/Debug/net9.0/ref/NorthwindDB.dll
