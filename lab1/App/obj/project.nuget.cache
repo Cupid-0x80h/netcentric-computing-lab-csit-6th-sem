@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5HYMGVUpKVk=",
+  "success": true,
+  "projectFilePath": "/home/cupid/Desktop/Csit_6th_sem/lab/dotnet/lab1/App/App.csproj",
+  "expectedPackageFiles": [
+    "/home/cupid/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.8/microsoft.aspnetcore.app.ref.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
