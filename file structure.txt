@@ -1,0 +1,7 @@
+dotnet
+├── lab1
+└── Lab2
+    ├── EmptyWeb
+    ├── NorthwindDB
+    ├── RazorMinimal
+    └── Lab2.sln
